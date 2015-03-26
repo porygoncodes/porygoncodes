@@ -1,13 +1,13 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Porygon Codes
+email:       bits@porygon.codes
+author:      Porygon Codes Inc.
+description: "A man-made website that consists entirely of programming code. It is capable of moving freely in cyberspace."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://porygon.codes"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-33983021-11
 
 # Optional features
 animated:           false
@@ -20,7 +20,7 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: false
-github_username:
+github_username: porygoncodes
 stackoverflow_id:
 twitter_username:
 google_plus_id:
@@ -31,15 +31,15 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: false
-share_text: 'Share this post!'
+share_text: 'Compartilhar!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
 share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
 
 # Build settings
